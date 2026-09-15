@@ -1,3 +1,4 @@
+# FastAPI application entry point for the SIF Precursor Detection platform
 import logging
 import uuid
 from contextlib import asynccontextmanager
